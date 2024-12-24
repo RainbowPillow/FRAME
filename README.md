@@ -6,7 +6,7 @@
 
 Class imbalance learning is a significant challenge in machine learning, with traditional methods like resampling or reweighting often struggling in noisy or incomplete data scenarios and advanced paradigms like semi-supervised or federated learning. To overcome these limitations, this paper introduces **FRAME**, a novel latent feature rectification method. **FRAME** balances classes in the latent space by learning multiple centroids per class and distinguishing them based on distance, eliminating the need for algorithm adjustments. It is robust against noise, missing values, and data structure variations. **FRAME** is extended to fully-supervised, semi-supervised, and federated learning, demonstrating superior performance and robustness across 10 binary-class datasets.
 
-![The overall architecture of FRAME](./figure/FRAME.png)
+![The overall architecture of FRAME](./figure/frame.png)
 
 
 
