@@ -20,18 +20,14 @@ conda activate FRAME
 pip install -r requirements.txt
 ```
 
-## Data Folder Structure
+## Data
+1. **Download the datasets**:  
+   - [UCI Machine Learning Repository](https://archive.ics.uci.edu/datasets)  
+   - [KEEL Dataset Repository](https://sci2s.ugr.es/keel/datasets.php)  
 
-```shell
-|-- data
-    |-- yeast1.npz
-    |-- haberman.npz
-    |-- ecoli1.npz
-    |-- newthyroid2.npz
-    |-- SatImage.npz
-    ......
-```
-
+2. **Organize the datasets**:  
+   - Create a folder named `datasets`.  
+   - Place the downloaded datasets into this folder.  
 
 
 # 🕹️Usage
