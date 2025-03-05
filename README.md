@@ -1,4 +1,4 @@
-# FRAME: Feature Rectification for Class Imbalance Learning
+# FRAME: Feature Rectification for Class Imbalance Learning (TKDE 2024)
 
 **If you find our work useful for your research, please give us a STAR🌟!**
 
